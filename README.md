@@ -1,6 +1,6 @@
 # Personal-Finance-Management
 
-The objective of the personal finance dashboard is to provide comprehensive Insights into howmuch we income,spend,& save money in 2022.
+The objective of the personal finance dashboard is to provide comprehensive Insights into Income,Expense,savings in 2022.
 
 We have dataset of the year 2022
 
